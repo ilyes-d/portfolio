@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Keanu';
+    src: url('KeanuBold.eot');
+    src: local('Keanu Bold'), local('KeanuBold'),
+        url('KeanuBold.eot?#iefix') format('embedded-opentype'),
+        url('KeanuBold.woff2') format('woff2'),
+        url('KeanuBold.woff') format('woff'),
+        url('KeanuBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Keanu';
+    src: url('KeanuRegular.eot');
+    src: local('Keanu'), local('KeanuRegular'),
+        url('KeanuRegular.eot?#iefix') format('embedded-opentype'),
+        url('KeanuRegular.woff2') format('woff2'),
+        url('KeanuRegular.woff') format('woff'),
+        url('KeanuRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
