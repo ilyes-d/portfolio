@@ -78,6 +78,7 @@ class Particle {
     }
   }
 }
+
 function init() {
   particleArray = [];
   for (let i = 0; i < 500; i++) {
@@ -89,6 +90,7 @@ function init() {
 }
 
 init();
+
 console.log(particleArray);
 
 function animate() {
