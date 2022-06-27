@@ -9,11 +9,16 @@
 - [ ] About section 
     -
     -  -->
-- [x] a Terminal look like portfolio 
+- [x] Terminal portfolio 
+- [ ] limited number of command 
 - [ ] design the terminal 
 
+# commands 
+1. ls 
+- shows what all the site about 
 
-
+2. cd 
+- cd into the section
 
 my name in arabic ->
 يَحْيَ عَبْدُ القَادِرْ إلْيَاسْ
