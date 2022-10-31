@@ -2,6 +2,7 @@
 
 ### ToDo list 
 
+<!-- Add some screenshot to your readme of how your portfolio looks like  -->
 <!-- - [ ] Hero section 
     - [ ] using `paritcle.js` as a background of my name 
     - 
